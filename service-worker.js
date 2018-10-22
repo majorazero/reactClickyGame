@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.2/workbox-sw.js");
 
 importScripts(
-  "majorazero.github.io/precache-manifest.c6579efeda13811224ab99d3d5b22863.js"
+  "/majorazero/reactClickyGame/precache-manifest.530aeecc2acc7d78ec9b6b52b0a9ebb0.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("majorazero.github.io/index.html", {
+workbox.routing.registerNavigationRoute("/majorazero/reactClickyGame/index.html", {
   
   blacklist: [/^\/_/,/\/[^\/]+\.[^\/]+$/],
 });
