@@ -1,12 +1,15 @@
 # reactClickyGame
-Let's make a clicky game involving sushi using React! Sushi will be clicked, and imaginarily eaten. 
+Let's make a clicky game involving sushi using React! Sushi will be clicked, and imaginarily eaten.
+
+# Deployment
+It's currently [deployed](https://majorazero.github.io/reactClickyGame/)!
 
 # Opening the Page
 If you want to serve the file locally, after you run `yarn install` just run  `yarn start` and you can check out the app at your localhost address.
 
 # Game Basics
 
-You get to click on sushi, but don't click any sushi more than once or you lose! That's it. 
+You get to click on sushi, but don't click any sushi more than once or you lose! That's it.
 
 # See it in action!
 
