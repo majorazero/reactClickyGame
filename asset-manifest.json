@@ -1,13 +1,13 @@
 {
-  "main.css": "/static/css/main.d722b0e1.chunk.css",
-  "main.js": "/static/js/main.b15414ad.chunk.js",
-  "main.js.map": "/static/js/main.b15414ad.chunk.js.map",
-  "static/js/1.7eae6140.chunk.js": "/static/js/1.7eae6140.chunk.js",
-  "static/js/1.7eae6140.chunk.js.map": "/static/js/1.7eae6140.chunk.js.map",
-  "runtime~main.js": "/static/js/runtime~main.229c360f.js",
-  "runtime~main.js.map": "/static/js/runtime~main.229c360f.js.map",
-  "static/css/main.d722b0e1.chunk.css.map": "/static/css/main.d722b0e1.chunk.css.map",
-  "index.html": "/index.html",
-  "precache-manifest.8cddc7a239e7c76902605a840a4a1a88.js": "/precache-manifest.8cddc7a239e7c76902605a840a4a1a88.js",
-  "service-worker.js": "/service-worker.js"
+  "main.css": "majorazero.github.io/static/css/main.d722b0e1.chunk.css",
+  "main.js": "majorazero.github.io/static/js/main.939bc2a0.chunk.js",
+  "main.js.map": "majorazero.github.io/static/js/main.939bc2a0.chunk.js.map",
+  "static/js/1.7eae6140.chunk.js": "majorazero.github.io/static/js/1.7eae6140.chunk.js",
+  "static/js/1.7eae6140.chunk.js.map": "majorazero.github.io/static/js/1.7eae6140.chunk.js.map",
+  "runtime~main.js": "majorazero.github.io/static/js/runtime~main.400b83d8.js",
+  "runtime~main.js.map": "majorazero.github.io/static/js/runtime~main.400b83d8.js.map",
+  "static/css/main.d722b0e1.chunk.css.map": "majorazero.github.io/static/css/main.d722b0e1.chunk.css.map",
+  "index.html": "majorazero.github.io/index.html",
+  "precache-manifest.c6579efeda13811224ab99d3d5b22863.js": "majorazero.github.io/precache-manifest.c6579efeda13811224ab99d3d5b22863.js",
+  "service-worker.js": "majorazero.github.io/service-worker.js"
 }
