@@ -8,7 +8,7 @@ If you want to serve the file locally, after you run `yarn install` just run  `y
 
 You get to click on sushi, but don't click any sushi more than once or you lose! That's it. 
 
-#See it in action!
+# See it in action!
 
 <img alt="example" src="example.gif" />
 
