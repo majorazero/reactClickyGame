@@ -1,0 +1,20 @@
+
+.sushiNav{
+  color: #edd3a8;
+  background-color: #253F51;
+}
+.sushiMess{
+  color: #EA85D3;
+}
+.sushiMess2{
+  font-size: 30px;
+  color: red;
+  animation: brownFlash 1s infinite;
+}
+@keyframes brownFlash {
+  0%{color: brown;}
+  25%{color: red; }
+  50%{color: brown}
+  75%{color: red}
+  100%{color: brown}
+}
