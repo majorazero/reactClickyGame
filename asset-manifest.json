@@ -1,13 +1,13 @@
 {
-  "main.css": "/majorazero/reactClickyGame/static/css/main.d722b0e1.chunk.css",
-  "main.js": "/majorazero/reactClickyGame/static/js/main.0f93d034.chunk.js",
-  "main.js.map": "/majorazero/reactClickyGame/static/js/main.0f93d034.chunk.js.map",
-  "static/js/1.7eae6140.chunk.js": "/majorazero/reactClickyGame/static/js/1.7eae6140.chunk.js",
-  "static/js/1.7eae6140.chunk.js.map": "/majorazero/reactClickyGame/static/js/1.7eae6140.chunk.js.map",
-  "runtime~main.js": "/majorazero/reactClickyGame/static/js/runtime~main.d58da3ec.js",
-  "runtime~main.js.map": "/majorazero/reactClickyGame/static/js/runtime~main.d58da3ec.js.map",
-  "static/css/main.d722b0e1.chunk.css.map": "/majorazero/reactClickyGame/static/css/main.d722b0e1.chunk.css.map",
-  "index.html": "/majorazero/reactClickyGame/index.html",
-  "precache-manifest.530aeecc2acc7d78ec9b6b52b0a9ebb0.js": "/majorazero/reactClickyGame/precache-manifest.530aeecc2acc7d78ec9b6b52b0a9ebb0.js",
-  "service-worker.js": "/majorazero/reactClickyGame/service-worker.js"
+  "main.css": "/reactClickyGame/static/css/main.d722b0e1.chunk.css",
+  "main.js": "/reactClickyGame/static/js/main.d4bc046a.chunk.js",
+  "main.js.map": "/reactClickyGame/static/js/main.d4bc046a.chunk.js.map",
+  "static/js/1.7eae6140.chunk.js": "/reactClickyGame/static/js/1.7eae6140.chunk.js",
+  "static/js/1.7eae6140.chunk.js.map": "/reactClickyGame/static/js/1.7eae6140.chunk.js.map",
+  "runtime~main.js": "/reactClickyGame/static/js/runtime~main.2db37c3c.js",
+  "runtime~main.js.map": "/reactClickyGame/static/js/runtime~main.2db37c3c.js.map",
+  "static/css/main.d722b0e1.chunk.css.map": "/reactClickyGame/static/css/main.d722b0e1.chunk.css.map",
+  "index.html": "/reactClickyGame/index.html",
+  "precache-manifest.71eeff071625899c12c41968af1093b8.js": "/reactClickyGame/precache-manifest.71eeff071625899c12c41968af1093b8.js",
+  "service-worker.js": "/reactClickyGame/service-worker.js"
 }
